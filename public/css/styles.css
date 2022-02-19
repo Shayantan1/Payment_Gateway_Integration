@@ -1,0 +1,140 @@
+h2{
+    color: #fff;
+    font-family: Sacramanto,sans-serif;
+}
+h1{
+    letter-spacing: 2px;
+    font-family: Merriweather, sans-serif;
+    color: #fff;
+}
+
+h3{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family:  sans-serif;
+}
+
+.foot-division{
+  background-color: #19282F;
+  padding-bottom: 12px;
+}
+
+.foot{
+  text-align: center;
+  padding-top: 20px;
+  color: #FFFFFF;
+}
+
+.background{
+    height: 100%;
+    background-image: url("../images/home.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.home-background{
+    width: 82%;
+    margin: 0% auto;
+}
+
+.home-background-text{
+    text-align: left;
+    padding: 8em 0 4em 0;
+    padding-bottom: 168px;
+}
+
+.donate-button{
+  background: #F76E11;
+  color: #111;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.donate-button:hover{
+    background: #FFE300;
+}
+
+.donat{
+    height: 100%;
+    background-image: url("../images/donation.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.donation-div{
+    padding: 15em 0 7.8em 0;
+    text-align: center;
+  }
+
+.donation-heading{
+    color: #fff;
+    text-align:center;
+    font-size: 3em;
+    font-weight: bolder;
+    line-height: 1em;
+}
+
+.about-background{
+  height: 100%;
+  background-image: url("../images/about.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.about-head{
+  text-align: center;
+  margin-bottom: 0;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.about-para{
+  color:#fff;
+  text-align: center;
+  margin-bottom: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: sans-serif;
+  font-size: 2em;
+  padding-bottom: 184px;
+}
+
+.contact-background{
+  height: 100%;
+  background-image: url("../images/contact.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.contact-para{
+  color:#fff;
+  text-align: center;
+  margin-bottom: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+.unordered{
+  text-align: center;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 94px;
+  list-style-type: none;
+  color:#fff;
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
